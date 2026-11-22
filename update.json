@@ -1,5 +1,5 @@
 {
-  "version": "0.57.6",
+  "version": "0.57.7",
   "url": "",
-  "notes": "Much faster drawing and smoother panning; gouache without white speckles"
+  "notes": "Smooth oil relief without notches, softer watercolour edges, smooth brush outline, faster brush switching and fills"
 }
