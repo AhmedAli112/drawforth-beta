@@ -1,5 +1,5 @@
 {
-  "version": "0.57.3",
+  "version": "0.57.4",
   "url": "",
-  "notes": "Polish before the beta: fixes, deep zoom, tutorial"
+  "notes": "Smoother drawing, Procreate-style top bar, brush rotation lock"
 }
