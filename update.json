@@ -1,5 +1,5 @@
 {
-  "version": "0.58.0",
+  "version": "0.58.1",
   "url": "",
-  "notes": "New: Digital and Real Media modes, and a rebuilt watercolour engine with real water flow, tide lines and granulation"
+  "notes": "Saves no longer fail on a busy GPU, wet paint keeps its wetness when moved, a real flexible Dip Pen, cleaner sumi, gouache and acrylic"
 }
