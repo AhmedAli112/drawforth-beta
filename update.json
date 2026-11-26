@@ -1,5 +1,5 @@
 {
-  "version": "0.58.10",
+  "version": "0.59.0",
   "url": "",
-  "notes": "A clearer first launch, no accidental marks while an artwork opens, exports that keep the paper texture, and a more visible HB pencil"
+  "notes": "Designer vector: Pen tool, shapes with fill and outline, combine shapes, clean SVG. Warp that follows your finger, and no more surprise undos while turning the canvas"
 }
