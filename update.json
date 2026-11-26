@@ -1,5 +1,5 @@
 {
-  "version": "0.59.0",
+  "version": "0.59.1",
   "url": "",
-  "notes": "Designer vector: Pen tool, shapes with fill and outline, combine shapes, clean SVG. Warp that follows your finger, and no more surprise undos while turning the canvas"
+  "notes": "Cleaner lines: smooth anti-aliased edges on every pen, smoothing that keeps small curls, and Ctrl + mouse wheel zoom that no longer jumps"
 }
