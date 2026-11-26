@@ -1,5 +1,5 @@
 {
-  "version": "0.58.9",
+  "version": "0.58.10",
   "url": "",
-  "notes": "Stroke Feel control centre, rulers and ellipse guides, radial symmetry, Copic colours, Qalam endings, and smoother, more even lines with every pen"
+  "notes": "A clearer first launch, no accidental marks while an artwork opens, exports that keep the paper texture, and a more visible HB pencil"
 }
