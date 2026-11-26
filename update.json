@@ -1,5 +1,5 @@
 {
-  "version": "0.59.1",
+  "version": "0.60.0",
   "url": "",
-  "notes": "Cleaner lines: smooth anti-aliased edges on every pen, smoothing that keeps small curls, and Ctrl + mouse wheel zoom that no longer jumps"
+  "notes": "One canvas with a Smooth or Paper texture surface, Photoshop-style brush angles, crisp calligraphy ink, Drawforth and Classic brush libraries with a new Arabic Calligraphy set, and a cleaner Procreate-style studio"
 }
